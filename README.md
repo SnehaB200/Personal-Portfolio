@@ -1,2 +1,4 @@
 <h1>My Own Personal Portfolio</h1>
-<img src="pic.png">
+<video controls autoplay>
+    <source src="video.mp4" type="video/mp4">
+</video>
